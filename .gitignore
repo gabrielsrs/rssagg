@@ -1,0 +1,30 @@
+# Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+
+# Build output
+bin/
+dist/
+build/
+
+# Coverage
+*.out
+
+# Env & secrets
+.env
+.env.*
+
+# Logs
+*.log
+
+# Debug
+__debug_bin
+*.prof
+*.trace
+
+# IDE
+.vscode/
+.idea/
