@@ -1,4 +1,3 @@
-=======
 ###### in GO by freeCodeCamp(boot.dev)
 
 ## RSS Aggregator
